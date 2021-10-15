@@ -1,0 +1,2 @@
+class FileNotAvailable(Exception):
+    pass
